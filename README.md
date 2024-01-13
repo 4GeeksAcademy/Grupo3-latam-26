@@ -1,3 +1,9 @@
+Integrantes:
+1) Clisdermar Vivas
+    First_heading.html
+     Navbar.html
+
+
 # Making a website as a team (Git collaboration)
 
 Practice your skills in Git while developing a typical website.
